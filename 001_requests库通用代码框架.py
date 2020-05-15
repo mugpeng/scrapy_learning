@@ -11,4 +11,5 @@ def getHETMLText(url):
 
 if __name__ == "__main__":
     url = "http://www.baidu.com"
+    url = "http://www.baidu.com" #如若去掉http:// 则会产生异常
     print(getHETMLText(url))
