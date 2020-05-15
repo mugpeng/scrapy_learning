@@ -1,0 +1,4 @@
+- 该文件内容为中国大学mooc 北京理工大学嵩天老师主讲内容的学习。课程：http://www.icourse163.org/learn/BIT-1001870001?tid=1450316449#/learn/content
+- 可以通过https://www.yuque.com/mugpeng/pyscrapy 关注我的学习笔记。
+- github 主要用来分享相关的代码。
+- 加油～
